@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Final/Final/Comparator.cpp
+ostream
+-
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Final/Final/ComplexNumber.cpp
+ostream
+-
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Final/Final/main.cpp
+iostream
+-
+ComplexNumber.cpp
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Final/Final/ComplexNumber.cpp
+vector
+-
+algorithm
+-
+Comparator.cpp
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Final/Final/Comparator.cpp
+

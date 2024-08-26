@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 2/ClassesandSingleton/Grade.h
+string
+-
+Logger.h
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 2/ClassesandSingleton/Logger.h
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 2/ClassesandSingleton/Logger.h
+string
+-
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 2/ClassesandSingleton/Student.cpp
+Student.h
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 2/ClassesandSingleton/Student.h
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 2/ClassesandSingleton/Student.h
+iostream
+-
+vector
+-
+string
+-
+Grade.h
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 2/ClassesandSingleton/Grade.h
+Logger.h
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 2/ClassesandSingleton/Logger.h
+

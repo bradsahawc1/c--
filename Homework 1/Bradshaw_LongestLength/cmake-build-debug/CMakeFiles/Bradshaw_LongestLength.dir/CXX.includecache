@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 1/Bradshaw_LongestLength/main.cpp
+iostream
+-
+vector
+-
+string
+-
+

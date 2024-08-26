@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 4/HospitalAdminConsole/Logger.cpp
+iostream
+-
+string
+-
+fstream
+-
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 4/HospitalAdminConsole/Patient.cpp
+iostream
+-
+string
+-
+vector
+-
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 4/HospitalAdminConsole/main.cpp
+iostream
+-
+fstream
+-
+Patient.cpp
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 4/HospitalAdminConsole/Patient.cpp
+Logger.cpp
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 4/HospitalAdminConsole/Logger.cpp
+

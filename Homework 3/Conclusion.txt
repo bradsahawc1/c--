@@ -1,0 +1,13 @@
+	   Inheritance                                         Template
+	V1                  V2                               V3                  V4
+1st           28309            39218                          2991               955
+2nd         28531             52431                         2991              2138
+3rd          24949            31951                         1995               997
+4th           29430            37791                         2015              3315
+Used Microseconds and I made my vectors 1000 long rather than 1000000 because I got impatient.
+
+The conclusion I can make is that using a template in this case is much more efficient than using Inheritance.
+My computer spent a lot less time on templates, you can see that where as my time for templates were in the thousands range
+the inheritance portion were in the tens of thousands range when it comes to how much time it took.
+Thinking if I had let my run with one million go I think the time difference would only be bigger and in company settings where speed is everything
+and you have a lot of information being transfered at that using a template would definitely be nessessary.

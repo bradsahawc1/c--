@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 3/OOvsTemplate/IComparable.cpp
+string
+-
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 3/OOvsTemplate/Template.cpp
+string
+-
+
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 3/OOvsTemplate/main.cpp
+IComparable.cpp
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 3/OOvsTemplate/IComparable.cpp
+Template.cpp
+C:/Users/Cameron Bradshaw/Documents/C++ Homework/Homework 3/OOvsTemplate/Template.cpp
+iostream
+-
+string
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+chrono
+-
+
